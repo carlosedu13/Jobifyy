@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', 'sans-serif';
+}
+
+ul{
+    list-style: none;
+    padding-left: 18px;
+}
+
+h2, h3{
+    font-size: 24px;
+}
+
+h2{
+    background-color: #c4c4c4;
+    padding: 15px;
+    border: solid 1px #222;
+}
+
+h1, p{
+    text-align: center;
+}
+
+img.jobify{
+    width: 359px;
+    height: 132.5px;
+}
+
+label{
+    display: block;
+    margin: 20px 0px 5px 0px;
+}
+
+input, select{
+    padding: 8px;
+    display: block;
+    width: 540px;
+}
+
+textarea{
+    padding: 8px;
+    width: 540px;
+    height: 320px;
+}
+
+button{
+    display: block;
+    padding: 12px;
+    margin-top: 10px;
+}
